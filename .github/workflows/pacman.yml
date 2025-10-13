@@ -1,4 +1,4 @@
-name: Generate Pacman Game
+name: Generate The Pacman Game File
 
 on:
   schedule: # Run automatically every 24 hours
